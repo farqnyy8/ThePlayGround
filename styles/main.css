@@ -18,16 +18,18 @@ header > h1{
 
 /*the the3rdMoon class for divs*/
 div.the3rdMoon{
-    color: azure;
-    background-color: rgb(126, 221, 221);
+    color: chocolate;
+    background-color: azure;
     width: fit-content;
+    margin: 10px 0;
 }
 
-#top{
-    color: deepskyblue;
-    margin-bottom: 5px;
-}
-
-#main{
-    margin-top: 5px;
+/*neno's class for divs*/
+div.neno{
+    color: #fff;
+    background-color: rgb(31, 27, 88);
+    padding: 5px 10px;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 10px 0;
 }
