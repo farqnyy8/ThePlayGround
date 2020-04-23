@@ -1,0 +1,18 @@
+
+/*the3rdMoon class for divs*/
+div.the3rdMoon{
+    color: chocolate;
+    background-color: azure;
+    width: fit-content;
+    margin: 10px 0;
+}
+
+/*neno's class for divs*/
+div.neno{
+    color: #fff;
+    background-color: rgb(31, 27, 88);
+    padding: 5px 10px;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 10px 0;
+}
