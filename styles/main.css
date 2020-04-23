@@ -1,0 +1,13 @@
+
+
+body{
+    background-color: azure;
+    font-family: sans-serif;
+}
+
+
+/*the the3rdMoon class for divs*/
+div.the3rdMoon{
+    color: chocolate;
+    background-color: darkslategrey;
+}
