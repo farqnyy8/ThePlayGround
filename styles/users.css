@@ -5,7 +5,9 @@ div.the3rdMoon{
     background-color: rgb(214, 167, 95);
     width: fit-content;
     margin: 10px 0;
-    padding: 2px;
+    padding: 5px;
+    border-radius: 2px;
+    border-color: deepskyblue;
 }
 
 /*neno's class for divs*/
