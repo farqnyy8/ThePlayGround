@@ -3,11 +3,31 @@
 body{
     background-color: azure;
     font-family: sans-serif;
+    margin: 10px;
 }
 
+header{
+    height: 5vw;
+    background-color: deepskyblue;
+    padding: 0.01vw;
+}
+
+header > h1{
+    text-align: center;
+}
 
 /*the the3rdMoon class for divs*/
 div.the3rdMoon{
-    color: chocolate;
-    background-color: darkslategrey;
+    color: azure;
+    background-color: rgb(126, 221, 221);
+    width: fit-content;
+}
+
+#top{
+    color: deepskyblue;
+    margin-bottom: 5px;
+}
+
+#main{
+    margin-top: 5px;
 }
