@@ -1,8 +1,8 @@
 
 /*the3rdMoon class for divs*/
 div.the3rdMoon{
-    color: chocolate;
-    background-color: azure;
+    color: azure;
+    background-color: chocolate;
     width: fit-content;
     margin: 10px 0;
 }
