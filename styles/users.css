@@ -1,13 +1,17 @@
 /*the3rdMoon class for divs*/
 div.the3rdMoon{
     color: azure;
-    background-color: rgb(214, 167, 95);
+    background-image: linear-gradient(to left,  rgb(214, 167, 95), yellow);
     width: fit-content;
     margin: 10px 0;
     padding: 5px;
     border-radius: 2px;
     border-color: deepskyblue;
     font-family: 'Courier New', Courier, monospace;
+}
+
+strong.the3rdMoonName{
+    color: slategrey;
 }
 
 /*neno's class for divs*/
