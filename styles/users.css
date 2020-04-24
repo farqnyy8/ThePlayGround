@@ -22,9 +22,12 @@ div.neno{
 
 /*paul's class for divs*/
 .paul{
-    color: grey;
+    color: white;
     background-color: rgb(34, 18, 40);
     width: fit-content;
+    font-weight: bold;
+    font-family: cursive;
+    font-variant: small-caps;
     margin: 10px 0;
     padding: 5px 10px;
     border-radius: 8px;
