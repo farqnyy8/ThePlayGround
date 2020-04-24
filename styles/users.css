@@ -21,7 +21,7 @@ div.neno{
 }
 
 /*paul's class for divs*/
-div.paul{
+.paul{
     color: #111;
     background-color: rgb(34, 18, 40);
     width: fit-content;
