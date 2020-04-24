@@ -1,4 +1,3 @@
-
 /*the3rdMoon class for divs*/
 div.the3rdMoon{
     color: azure;
@@ -8,6 +7,7 @@ div.the3rdMoon{
     padding: 5px;
     border-radius: 2px;
     border-color: deepskyblue;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 /*neno's class for divs*/
