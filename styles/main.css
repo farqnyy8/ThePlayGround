@@ -1,6 +1,8 @@
 body{
-    background-color: azure;
+    color: azure;
+    background-color: rgb(214, 167, 95);
     font-family: sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     margin: 10px;
 }
 
