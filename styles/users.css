@@ -19,3 +19,15 @@ div.neno{
     width: fit-content;
     margin: 10px 0;
 }
+
+/*paul's class for divs*/
+div.paul{
+    color: yellow;
+    background-color: #111;
+    width: fit-content;
+    margin: 10px 0;
+    padding 5px 10px;
+    border-radius: 5px;
+    font-variant: small-caps;
+    font-family: cursive;
+}
