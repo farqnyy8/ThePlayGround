@@ -1,14 +1,14 @@
 body{
-    color: azure;
-    background-color: rgb(214, 167, 95);
+    background-color: azure;
     font-family: sans-serif;
     font-family: 'Courier New', Courier, monospace;
     margin: 10px;
 }
 
 header{
+    color: azure;
+    background-color: rgb(214, 167, 95);
     height: 5vw;
-    background-color: deepskyblue;
     padding: 0.01vw;
 }
 
