@@ -27,7 +27,7 @@ div.neno{
 /*paul's class for divs*/
 .paul{
     color: white;
-    background-color: linear-gradient(to right,  rgb(34, 18, 40), grey);
+    background-image: linear-gradient(to right,  rgb(34, 18, 40), grey);
     width: fit-content;
     font-weight: bold;
     font-family: "Montserrat", cursive;
